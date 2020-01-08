@@ -1,0 +1,1 @@
+This is a readme file for the first project. Im not sure how to access it from command line, but I can get into it from the GUI and open/type in VSC. 
